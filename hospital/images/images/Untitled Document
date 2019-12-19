@@ -1,0 +1,115 @@
+	<html>
+	<head>
+		<title>My Resume</title>
+	</head>
+	<body bgcolor="#FFFAF0">
+	
+		<center><h1>Resume</h1></center>
+	
+	
+	<img src="/home/manoj/Pictures/Screenshot from 2018-11-21 14-51-25.png"width="300"height="250"align="left"></img>
+	<table>
+		<tr>
+			<td>Name  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : </td>
+			<td>T.Manoj Kumar</td>
+		</tr>
+		<tr>
+			<td>Fathers name  &nbsp;: </td>
+			<td>T.Samuel</td>
+		</tr>
+		<tr>
+			<td>Mothers name : </td>
+			<td>T.Sudha</td>
+		</tr>
+		<tr>
+			<td>Email-address : </td>
+			<td>manuj1319@gmail.com</td>
+		</tr>
+		<tr>
+			<td>Phone number : </td>
+			<td>9110771366 </td></tr>
+		
+			<div align ="right"><a href = https://www.google.com/search?client=ubuntu&channel=fs&q=gmaillogin&ie=utf-8&oe=utf-8><img src="/home/manoj/Pictures/index.jpeg"height ="42"width ="42"></img></a> </td>
+			<div align = "left"><a href="https://en.wikipedia.org/wiki/Facebook"><img src="/home/manoj/Pictures/index.png" height ="42"width ="42"></img></a>
+		<div align =""><a href="https://www.instagram.com/accounts/login/?hl=en"><img src ="/home/manoj/Pictures/index1.jpeg"height ="42"width ="42">manumanoj</img></a>
+		</tr>
+		</table>
+		<hr></hr>
+	<div align = "left">
+	<h3><u><img src="/home/manoj/Pictures/index7.png" width="50" height="50">Career Objective : </u></h3>
+	<p>Self-motivated and hardworking fresher seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.
+	</p>
+	<div align ="left">
+		<h3><img src="/home/manoj/Pictures/index8.png" width ="100"height="50">Educational qualifications : </h3>
+	</div>
+	<center>
+	<table border="10" width ="900" height="200" >
+		<tr>
+			<th>standard</th>
+			<th >college name</th>
+			<th >percentage</th>
+			<th>Year of education</th>
+		</tr>
+		<tr>
+			<td >10</td>
+			<td ><a href  ="https://www.google.com/search?client=ubuntu&channel=fs&q=sri+vikas+public+school+yeditha&ie=utf-8&oe=utf-8"><b>Sri vikas public school<b></a></td>
+			<td ">93</td>
+			<td>2012-2013</td>
+		</tr>
+		<tr>
+			<td >Intermediate</td>
+			<td ><a href = "https://www.google.com/search?client=ubuntu&channel=fs&q=vignan+junior+college+mandapeta&ie=utf-8&oe=utf-8">Vignan junioir college</a></td>
+			<td >85</td>
+			<td>2013-2015</td>
+		</tr>
+		<tr>
+			<td >B.Tech</td>
+			<td ><a href = "https://www.google.com/search?client=ubuntu&channel=fs&q=vsm+college+of+engineering+ramachandrapuram&ie=utf-8&oe=utf-8">Vsm engineering college</td></a>
+			<td >77</td>
+			<td>2014-2019</td>
+		</tr>
+	</table>
+</center>
+	<div align ="left">
+		<h3><u><img src="/home/manoj/Pictures/images9.jpeg" width="80" height="80">Technical Skills  :</u></h3>
+	</div>
+	<ul style = "type  :disc">
+		<li >c , c++ , java , html , css .</li>
+		<li >sql , oracle.</li>
+		<li >office word , excel.</li>
+	</ul>		
+	<div align ="left">
+		<h3><u><img src="/home/manoj/Pictures/index10.png" width="80" height="80">Strengths : </u></h3>
+	</div>
+	<ul style = "type:disc">
+		<li >I am a positive attitude person and a quick learner.</li>
+		<li >I can easily mingle with others.</li>
+		<li ">I have a good communication skills.</li>
+	</ul>
+	<div align ="left">
+		<h3><u><img src="/home/manoj/Pictures/index11.png" width="80" height="80">Projects Done : </u></h3>
+	</div>
+	<ul  style = "type:disc">
+		<li >Bus reservation system.</li>
+		<li >Hospital management system.</li>
+		<li>Movie tickets booking.</li>
+	</ul>
+	<div align ="left">
+		<h3><img src="/home/manoj/Pictures/images12.png" width="80" height="50"><u>Hobbies : </u></h3>
+	</div>
+	<ul  style = "type:disc">
+		<li >Browsing.</li>
+		<li >Watching videos in youtube for studying purpose.</li>
+		<li>Singing.</li>
+	</ul>
+	<div align ="left">
+	<h3><u>Social media links : </u></h3>
+		<a href = https://www.google.com/search?client=ubuntu&channel=fs&q=gmaillogin&ie=utf-8&oe=utf-8><img src="/home/manoj/Pictures/index.jpeg"height ="42"width ="42"></img></a>		
+		<a href="https://en.wikipedia.org/wiki/Facebook"><img src="/home/manoj/Pictures/index.png" height ="42"width ="42"></img></a>
+		<a href="https://www.instagram.com/accounts/login/?hl=en"><img src ="/home/manoj/Pictures/index1.jpeg"height ="42"width ="42">manumanoj</img></a>
+	</div>
+	
+	<div align="right">Signature</div>
+	<div align="right">T.Manoj Kumar.</div>
+	</body>
+	</html>
